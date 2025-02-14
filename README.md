@@ -1,20 +1,23 @@
-                        8 888888888o.                .8.           b.             8   b.             8  `8.`8888.      ,8' 
-                        8 8888    `^888.            .888.          888o.          8   888o.          8   `8.`8888.    ,8'  
-                        8 8888        `88.         :88888.         Y88888o.       8   Y88888o.       8    `8.`8888.  ,8'   
-                        8 8888         `88        . `88888.        .`Y888888o.    8   .`Y888888o.    8     `8.`8888.,8'    
-                        8 8888          88       .8. `88888.       8o. `Y888888o. 8   8o. `Y888888o. 8      `8.`88888'     
-                        8 8888          88      .8`8. `88888.      8`Y8o. `Y88888o8   8`Y8o. `Y88888o8       `8. 8888      
-                        8 8888         ,88     .8' `8. `88888.     8   `Y8o. `Y8888   8   `Y8o. `Y8888        `8 8888      
-                        8 8888        ,88'    .8'   `8. `88888.    8      `Y8o. `Y8   8      `Y8o. `Y8         8 8888      
-                        8 8888    ,o88P'     .888888888. `88888.   8         `Y8o.`   8         `Y8o.`         8 8888      
-                        8 888888888P'       .8'       `8. `88888.  8            `Yo   8            `Yo         8 8888 
+<top> 
+<h4 align="center">
+<pre>
+:::::::::      :::     ::::    ::: ::::    ::: :::   ::: 
+  :+:    :+:   :+: :+:   :+:+:   :+: :+:+:   :+: :+:   :+:  
+     +:+    +:+  +:+   +:+  :+:+:+  +:+ :+:+:+  +:+  +:+ +:+    
+       +#+    +:+ +#++:++#++: +#+ +:+ +#+ +#+ +:+ +#+   +#++:      
+         +#+    +#+ +#+     +#+ +#+  +#+#+# +#+  +#+#+#    +#+        
+           #+#    #+# #+#     #+# #+#   #+#+# #+#   #+#+#    #+#         
+   #########  ###     ### ###    #### ###    ####    ###
+</pre>
+</h4>
+</top>
 
-
-#   **|    ↑ ↑ ↓ ↓ ← → ← → 🅱️ 🅰️ Hello! 🅰️ 🅱️ ← → ← → ↓ ↓ ↑ ↑ |**
+<h3 align="center">↑ ↑ ↓ ↓ ← → ← → 🅱️ 🅰️  Hello!   🅰️ 🅱️ ← → ← → ↓ ↓ ↑ ↑
 
 <p>
 
-<h3 align="center">A Computer Engineering junior studying at Florida Polytechnic University!</h3></p>
+        print(aboutMe())
+<h3 align="left">Hey there! 👋 I'm Danny. I'm pursuing my BS in Computer Engineering at Florida Polytechnic University, with a concentration in Advanced Topics. I love working with embedded systems, learning new skills, and I always try to bring my A-Game whenever possible. If I'm not studying or working, I'm most likely streaming video games on Twitch!</h3></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dannyjtaylor&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjtaylor" /> </p>
 
@@ -34,8 +37,6 @@
 - 📄 Click on Phoenix to view my resume!
 <a href="https://www.linkedin.com/in/dannyjtaylor/overlay/1739224931601/single-media-viewer/?profileId=ACoAAEa30iEB-l2Y78MS48KDaCulXJHxqG4x6VU" target="blank"><img align="center" src="https://static.wikia.nocookie.net/aceattorney/images/b/bc/Phoenix_and_Document_1.gif/revision/latest/scale-to-width-down/250?cb=20130329201537" alt="View my Resume" height="80" width="110" /></a>
 
-- ⚡ **I stream on Twitch! I play mostly VALORANT.**
-
         print(findMeOn(LinkedIn, Instagram, Twitch, Linktree))
 
 <p align="center">
@@ -46,21 +47,23 @@
 
 </p>
 
+        print(programsAndTools(Arduino, C, C++, HTML, CSS, JavaScript, MATLAB, Python, Veriog, Git, UnrealEngine)
+
 <h3 align="center">Programming Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-<a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> </a> </p>
+<a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyjtaylor&show_icons=true&locale=en&layout=compact" alt="dannyjtaylor" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyjtaylor&show_icons=true&locale=en&layout=compact" alt="dannyjtaylor" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyjtaylor&show_icons=true&locale=en" alt="dannyjtaylor" /></p>-->
 
