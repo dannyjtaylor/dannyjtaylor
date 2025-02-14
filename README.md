@@ -1,4 +1,16 @@
-#   **|    ↑ ↑ ↓ ↓ ← → ← → 🅱️ 🅰️ Daniel Taylor 🅰️ 🅱️ ← → ← → ↓ ↓ ↑ ↑ |**
+                        8 888888888o.                .8.           b.             8   b.             8  `8.`8888.      ,8' 
+                        8 8888    `^888.            .888.          888o.          8   888o.          8   `8.`8888.    ,8'  
+                        8 8888        `88.         :88888.         Y88888o.       8   Y88888o.       8    `8.`8888.  ,8'   
+                        8 8888         `88        . `88888.        .`Y888888o.    8   .`Y888888o.    8     `8.`8888.,8'    
+                        8 8888          88       .8. `88888.       8o. `Y888888o. 8   8o. `Y888888o. 8      `8.`88888'     
+                        8 8888          88      .8`8. `88888.      8`Y8o. `Y88888o8   8`Y8o. `Y88888o8       `8. 8888      
+                        8 8888         ,88     .8' `8. `88888.     8   `Y8o. `Y8888   8   `Y8o. `Y8888        `8 8888      
+                        8 8888        ,88'    .8'   `8. `88888.    8      `Y8o. `Y8   8      `Y8o. `Y8         8 8888      
+                        8 8888    ,o88P'     .888888888. `88888.   8         `Y8o.`   8         `Y8o.`         8 8888      
+                        8 888888888P'       .8'       `8. `88888.  8            `Yo   8            `Yo         8 8888 
+
+
+#   **|    ↑ ↑ ↓ ↓ ← → ← → 🅱️ 🅰️ Hello! 🅰️ 🅱️ ← → ← → ↓ ↓ ↑ ↑ |**
 
 <p>
 
@@ -6,13 +18,16 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dannyjtaylor&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjtaylor" /> </p>
 
-
-<a href="https://www.cavestory.org/" target="blank"><img align="center" src="https://i.imgur.com/wKiMdqP.gif" alt="Download Cave Story" height="60" width="60" /></a>
-
-![Omen Dancing](https://static.wikia.nocookie.net/valorant/images/3/35/Omen_Cat_Dance_Spray.gif/revision/latest?cb=20230312212946)
-![Cave Story Save Point](https://i.imgur.com/ccAAq40.gif)
+<p align = "center">
+<a href="https://www.cavestory.org/" target="blank"><img align="left" src="https://i.imgur.com/wKiMdqP.gif" alt="Pay Cave Story" height="100" width="100" /></a>
+<a href="https://playvalorant.com/en-us/download/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/valorant/images/3/35/Omen_Cat_Dance_Spray.gif/revision/latest?cb=20230312212946" alt="fierylites" height="150" width="150" /></a>
+<a href="https://twitch.com/fierylites" target="blank"><img align="right" src="https://i.imgur.com/ccAAq40.gif" alt="fierylites" height="100" width="100" /></a>
+<!--<a href="https://linktr.ee/dtaylor6456" target="blank"><img align="center" src="https://img.utdstc.com/icon/0d4/e93/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0" alt="Danny's Linktree" height="30" width="30" /></a>
+-->
+</p>
 
 - 🔭 Currently working on **my own website❗**
+
 
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
@@ -31,8 +46,8 @@
 
 </p>
 
-<h3 align="left">Programming Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Programming Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
