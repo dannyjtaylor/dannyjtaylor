@@ -31,7 +31,7 @@
 
 </p>
 
-<h3 align="left">Programming Languages and Too:</h3>
+<h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -49,4 +49,4 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyjtaylor&show_icons=true&locale=en" alt="dannyjtaylor" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyjtaylor&" alt="dannyjtaylor" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannyjtaylor&" alt="dannyjtaylor" /></p>-->
