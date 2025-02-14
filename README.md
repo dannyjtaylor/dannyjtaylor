@@ -17,7 +17,7 @@
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
 - 📄 Click on Phoenix to view my resume!
-<a href="https://www.cavestory.org/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/aceattorney/images/b/bc/Phoenix_and_Document_1.gif/revision/latest/scale-to-width-down/250?cb=20130329201537" alt="View my Resume" height="80" width="110" /></a>
+<a href="https://www.linkedin.com/in/dannyjtaylor/overlay/1739224931601/single-media-viewer/?profileId=ACoAAEa30iEB-l2Y78MS48KDaCulXJHxqG4x6VU" target="blank"><img align="center" src="https://static.wikia.nocookie.net/aceattorney/images/b/bc/Phoenix_and_Document_1.gif/revision/latest/scale-to-width-down/250?cb=20130329201537" alt="View my Resume" height="80" width="110" /></a>
 
 - ⚡ **I stream on Twitch! I play mostly VALORANT.**
 
