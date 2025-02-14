@@ -47,7 +47,7 @@
 
 </p>
 
-        print(programsAndTools(Arduino, C, C++, HTML, CSS, JavaScript, MATLAB, Python, Veriog, Git, UnrealEngine)
+        print(programsAndTools(Arduino, C, C++, HTML, CSS, JavaScript, MATLAB, Python, Veriog, Git, UnrealEngine))
 
 <h3 align="center">Programming Languages and Tools:</h3>
 <p align="center"> 
