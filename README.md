@@ -37,14 +37,11 @@
 - 📄 Click on Phoenix to view my resume!
 <a href="https://www.linkedin.com/in/dannyjtaylor/overlay/1739224931601/single-media-viewer/?profileId=ACoAAEa30iEB-l2Y78MS48KDaCulXJHxqG4x6VU" target="blank"><img align="center" src="https://static.wikia.nocookie.net/aceattorney/images/b/bc/Phoenix_and_Document_1.gif/revision/latest/scale-to-width-down/250?cb=20130329201537" alt="View my Resume" height="80" width="110" /></a>
 
-        print(findMeOn(LinkedIn, Instagram, Twitch, Linktree))
+        print(findMeOn(LinkedIn, Linktree))
 
 <p align="center">
 <a href="https://linkedin.com/in/dannyjtaylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannyjtaylor" height="30" width="40" /></a>
-<a href="https://instagram.com/fierylites" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/502/non_2x/twitch-logo-twitch-icon-transparent-free-png.png" alt="fierylites" height="40" width="40" /></a>
-<a href="https://twitch.com/fierylites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fierylites" height="30" width="40" /></a>
 <a href="https://linktr.ee/dtaylor6456" target="blank"><img align="center" src="https://img.utdstc.com/icon/0d4/e93/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0" alt="Danny's Linktree" height="30" width="30" /></a>
-
 </p>
 
         print(programsAndTools(Arduino, C, C++, HTML5, CSS, JavaScript, MATLAB, Python, Veriog, Git, UnrealEngine))
