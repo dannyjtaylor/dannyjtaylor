@@ -57,8 +57,8 @@
 <!-- LinkedIn and LinkTree Section -->
 
 <p align="left">
-<a href="https://linkedin.com/in/dannyjtaylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannyjtaylor" height="100" width="100" /></a>  &nbsp;  &nbsp;  &nbsp; 
-<a href="https://linktr.ee/dtaylor6456" target="blank"><img align="center" src="https://img.utdstc.com/icon/0d4/e93/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0" alt="Danny's Linktree" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/dannyjtaylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannyjtaylor" height="50" width="50" /></a>  &nbsp;  &nbsp;  &nbsp; 
+<a href="https://linktr.ee/dtaylor6456" target="blank"><img align="center" src="https://img.utdstc.com/icon/0d4/e93/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0" alt="Danny's Linktree" height="50" width="50" /></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannyjtaylor&show_icons=true&locale=en&layout=compact" alt="dannyjtaylor" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyjtaylor&show_icons=true&locale=en" alt="dannyjtaylor" /></p>-->
