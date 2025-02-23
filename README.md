@@ -35,9 +35,7 @@
 - 📄 Click on Phoenix Wright to view my resume!
 <a href="https://www.linkedin.com/in/dannyjtaylor/overlay/1739224931601/single-media-viewer/?profileId=ACoAAEa30iEB-l2Y78MS48KDaCulXJHxqG4x6VU" target="blank"><img align="center" src="https://static.wikia.nocookie.net/aceattorney/images/b/bc/Phoenix_and_Document_1.gif/revision/latest/scale-to-width-down/250?cb=20130329201537" alt="View my Resume" height="80" width="110" /></a>
 
-
 <!-- Programming Languages/Tools Section -->
-
 
 <h3 align="center">Programming Languages and Tools:</h3>
 <p align="center"> 
@@ -56,7 +54,6 @@
 
 </br>
 <!-- LinkedIn and LinkTree Section -->
-
 
 <p align="left">
 <a href="https://linkedin.com/in/dannyjtaylor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannyjtaylor" height="50" width="50" /></a>  &nbsp;  &nbsp;  &nbsp; 
