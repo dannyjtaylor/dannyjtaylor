@@ -28,7 +28,6 @@
 
 - 🔭 Currently working on **my own website❗**
 
-
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
 - 📄 Click on Phoenix Wright to view my resume!
