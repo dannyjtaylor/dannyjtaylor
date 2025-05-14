@@ -27,7 +27,7 @@
 </p>
 
 
-- 🔭 Currently working on **my own website❗**
+- 🔭 Visit my webiste! dannyjtaylor.github.io
 
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
