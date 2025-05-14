@@ -27,7 +27,7 @@
 </p>
 
 
-- 🔭 Visit my webiste! dannyjtaylor.github.io
+- 🔭 Visit my webiste! **dannyjtaylor.github.io**
 
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
