@@ -19,6 +19,7 @@
 <!-- About Me -->
 <h3 align="left">Hey there! 👋 I'm Danny. I'm pursuing my BS in Computer Engineering at Florida Polytechnic University, with a concentration in Advanced Topics. I love working with embedded systems, learning new skills, and I always try to bring my A-Game whenever possible. If I'm not studying or working, I'm most likely streaming video games on Twitch!</h3></p>
 
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dannyjtaylor&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjtaylor" /> </p>
 
 <p align = "center">
@@ -27,9 +28,7 @@
 -->
 </p>
 
-
-
-- 🔭 Currently working on **my own website❗**
+- 🔭 Visit my website! **dannyjtaylor.github.io**
 
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
 
