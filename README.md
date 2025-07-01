@@ -28,6 +28,7 @@
 -->
 </p>
 
+
 - 🔭 Visit my website! **dannyjtaylor.github.io**
 
 - 📫 Please reach me at:  **dannyengineers@outlook.com**
