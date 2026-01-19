@@ -16,7 +16,10 @@
 <!-- Konami Code Part -->
 <!-- <a href="https://github.com/dannyjtaylor"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=DFF1F8&center=true&random=false&width=750&lines=↑+↑+↓+↓+←+→+←+→+Ⓑ+Ⓐ+START" alt=" "/></a>⠀ -->
 <!-- About Me -->
-<h3 align="left">Hey there! 👋 I'm Danny. I'm pursuing my BS in Computer Engineering at Florida Polytechnic University, with a concentration in Advanced Topics. I love working with embedded systems, learning new skills, and I always try to bring my A-Game whenever possible. If I'm not studying or working, I'm most likely streaming video games on Twitch!</h3></p>
+<h3 align="left">Hey there! 👋 I'm Danny. I'm pursuing my BS in Computer Engineering at Florida Polytechnic University, with a concentration in Advanced Topics. I love working with embedded systems, learning new skills, and I always try to bring my A-Game whenever possible. If I'm not studying or working, I'm most likely streaming video games on Twitch!</h3>
+<h3 align="left">PS: Ask me about my capstone project!</h3>
+</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dannyjtaylor&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjtaylor" /> </p>
 <p align = "center">
 <a href="https://www.cavestory.org" target="blank"><img align="right" src="https://i.imgur.com/ccAAq40.gif" alt="fierylites" height="100" width="100" /></a>
