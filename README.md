@@ -11,12 +11,7 @@
 </pre>
 </h4>
 </top>
-<p>
-
-
-
-
-  
+<p>  
 <!--  Konami Code Part -->
 <!-- <a href="https://github.com/dannyjtaylor"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=DFF1F8&center=true&random=false&width=750&lines=↑+↑+↓+↓+←+→+←+→+Ⓑ+Ⓐ+START" alt=" "/></a>⠀ -->
 <!-- About Me -->
